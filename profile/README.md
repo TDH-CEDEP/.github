@@ -117,9 +117,7 @@ have their own Github accounts.
 
 It is important to note, that a repository being private should not
 affect the sort of information published there. PHI, passwords, etc. are
-not allowed in any repo, public or private. \[should there be a middle
-tier of data that can be in private repos, but not public ones ,
-e.g. network paths?\]
+not allowed in any repo, public or private. 
 
 ## Sensitive Data
 
