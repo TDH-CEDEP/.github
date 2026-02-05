@@ -1,6 +1,7 @@
+
+
 ---
 title: "CEDEP Github"
-output-file: profile/README.md
 format: gfm
 editor: visual
 execute: 
@@ -38,6 +39,7 @@ The following steps should be closely followed in order to adhere to our agreed 
 4.  Keep repositories private unless the project needs to be viewable by other jurisdictions and/or the public.
 
 5.  Teams should develop and follow protocols to ensure that no sensitive data is published to any repos, public or private. See the security page for more details.
+
 
 # Security Details
 
@@ -94,6 +96,7 @@ If sensitive data gets pushed to Github, we need to take it down as fast as poss
 5.  Notify anyone else who needs to know (e.g., HIPAA protocol)
 
 6.  Determine steps to make the repo public again (if appropriate)
+
 
 # Github Basics
 
