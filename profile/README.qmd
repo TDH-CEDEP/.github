@@ -9,7 +9,7 @@ execute:
 
 # Github Overview {.unnumbered}
 
-Github is a widely used tool for managing work and development on code-based projects. It has several key features:
+Github is a widel    y used tool for managing work and development on code-based projects. It has several key features:
 
 1.  Version control - Github is based on **git**, a version control software. Git allows you to track changes in a project over time, and revert to previous versions if problems arise. You can also create **branches** of a project to work on new/experimental features without breaking the **main** code which might need to remain functional with no downtime. After completing the branch, the changes can be merged into the main code.
 
