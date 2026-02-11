@@ -210,3 +210,5 @@ You should only need to set your credentials once \[pending security concerns\].
 ## SAS Integration
 
 -   <https://documentation.sas.com/doc/en/egug/8.3/p078cl08fol7hkn11a8nf1f9izq7.htm>
+
+- New resource for SAS
