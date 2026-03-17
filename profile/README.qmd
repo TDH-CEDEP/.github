@@ -15,13 +15,13 @@ Github is a widely used tool for managing work and development on code-based pro
 
 2.  Versatile - You can use Github to collaborate and track changes for any text- or script-based project. It is mostly used for hosting codes for web/software development or data analysis (SQL, SAS, R, Python), but you can also use it for complex [documentation on sourdough bread making](https://github.com/hendricius/the-sourdough-framework), [data storage for public use](https://github.com/sfu-db/covid19-datasets/tree/master), or [reports on cyber-security threats](https://github.com/jacobdjwilson/awesome-annual-security-reports).
 
-3.  Web hosted - Github is a web application that can host public and private **repositories** (or **repos**). Anyone can see and download information on a public repo. Private repos can only be seen by individuals with approved access. For our purposes, [no sensitive code, PHI, passwords, tokens, or credentials can be stored in any repository, even if it is private.]{.underline} Github is great for working on projects for your own use, but it is also a fantastic way to share code with other users inside and outside TDH who might find it useful.
+3.  Web hosted - Github is a web application that can host public and private **repositories** (or **repos**). Anyone can see and download information on a public repo. Private repos can only be seen by individuals with approved access. For TDH purposes, [no sensitive code, PHI, passwords, tokens, or credentials can be stored in any repository, even if it is private.]{.underline} Github is great for working on projects for your own use, but it is also a fantastic way to share code with other users inside and outside TDH who might find it useful.
 
-4.  Free - Anyone can create a free Github account. To interact with TDH repos, you should create your own account using your tn.gov email and two-factor authentication. We can then add you to any TDH CEDEP teams in Github, so you can start contributing.
+4.  Free - Anyone can create a free Github account. To interact with TDH repos, you should create your own account using your tn.gov email and two-factor authentication. We can then add you to any TDH CEDEP teams in Github, so you can start benefiting and contributing.
 
 ## Organization
 
-Our use of Github was only recently approved, so we are still working on the best way to integrate it into our teams. We have one main organization, TDH-CEDEP, with several program area subgroups (e.g., SSI, VH). Once you have your account, an admin can add you to the correct group(s). You will be able to view/download any public repository, but you can only see the private repositories for the teams you are a part of. You can also only make changes to repos for your teams.
+Our use of Github was only recently approved, so we are still working on the best way to integrate it into our teams. We have one main organization, TDH-CEDEP, with several program area subgroups (e.g., SSI, VH,...). Once you have your account, an admin can add you to the correct group(s). You will be able to view/download any public repository, but you can only see the private repositories for the teams you are a part of. You can also only make changes to repos for your teams.
 
 If your program area does not have a team in TDH-CEDEP, let us know and we can create one easily. If you plan on having a lot of users and repos, it would be good to designate someone on your team to be an admin, so they can manage access permissions.
 
@@ -91,7 +91,7 @@ If sensitive data gets pushed to Github, we need to take it down as fast as poss
 
 4.  Edit the version history to remove the sensitive data \[develop guidance because this can be complex\]. Note information needed for follow-up investigation (time published and removed, author, file source, etc.)
 
-5.  Notify anyone else who needs to know (e.g., HIPAA protocol)
+5.  Notify anyone else who needs to know (e.g., HIPAA protocol) ADD PRIVACY OFFICE CONTACT INFO???
 
 6.  Determine steps to make the repo public again (if appropriate)
 
