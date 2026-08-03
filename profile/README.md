@@ -142,8 +142,7 @@ You can also use gitignore functionality to hide certain files from Git,
 which can help when you need data for a code to run on your machine, but
 you don’t want it in the version history that goes in Github.
 
-\[Consider a middle tier of info that can be in private but not public
-repos\]
+We should make a middle tier that has this sort of thing in it...
 
 ### Removing Sensitive Data from a Repo
 
